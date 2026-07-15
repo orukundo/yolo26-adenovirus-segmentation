@@ -1,9 +1,9 @@
-# yolo26-adenovirus-segmentation
+# YOLO26 Adenovirus Segmentation
 YOLO26 semantic-segmentation benchmark for adenovirus in transmission electron microscopy (TEM) images.
 
 ## Overview
 
-This repository trains YOLO26n/s/m/l/x semantic-segmentation models using a selected augmentation profile, preparing the segmentation dataset from image folders and binary masks, evaluating each model on validation and test splits, saving the best-performing weights, and exporting predictions and comparison metrics.
+This repository trains YOLO26n/s/m/l/x semantic-segmentation model variants using a selected augmentation profile, preparing the segmentation dataset from image folders and binary masks, evaluating each model on validation and test splits, saving the best-performing weights, and exporting predictions and comparison metrics.
 
 ## Requirements
 
