@@ -3,7 +3,7 @@ YOLO26 semantic-segmentation benchmark for adenovirus in transmission electron m
 
 ## Overview
 
-This repository trains YOLO26n/s/m/l/x semantic-segmentation model variants using a selected augmentation profile, preparing the segmentation dataset from image folders and binary masks, evaluating each model on validation and test splits, saving the best-performing weights, and exporting predictions and comparison metrics.
+This trains YOLO26n/s/m/l/x semantic-segmentation model variants using a selected augmentation profile, preparing the segmentation dataset from image folders and binary masks, evaluating each model on validation and test splits, saving the best-performing weights, and exporting predictions and comparison metrics.
 
 ## Requirements
 
