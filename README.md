@@ -18,4 +18,4 @@ This trains YOLO26n/s/m/l/x semantic-segmentation model variants using a selecte
 ## Author
 
 Olivier Rukundo, Ph.D.
-University of Eastern Finland
+University of Limerick
