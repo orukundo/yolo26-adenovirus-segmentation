@@ -7,7 +7,7 @@ augmentation profile, preparing the segmentation dataset from image folders and
 binary masks, evaluating each model on validation and test splits, saving the
 best-performing weights, and exporting predictions and comparison metrics.
 
-@author: Olivier.Rukundo, Ph.D., University of Eastern Finland, July 15, 2026
+@author: Olivier.Rukundo, Ph.D., University of Limerick, July 15, 2026
 """
 
 import csv
